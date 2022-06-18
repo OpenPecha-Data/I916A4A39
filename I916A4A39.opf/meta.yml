@@ -1,0 +1,38 @@
+id: I916A4A39
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T22:25:01.582326'
+last_modified: '2022-06-18T22:25:01.582341'
+parser: null
+source_metadata:
+  title: The Great Treatise on the Stages of the Mantra Path by Tsong kha pa (1357–1419)
+    (dGa ldan block print), colophon excerpt
+  author: treatise (Tibetan)
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2017-10-21);
+    revised, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:David Jackson (dj)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/329
+  bases:
+    4c6a:
+      title: The Great Treatise on the Stages of the Mantra Path by Tsong kha pa (1357–1419)
+        (dGa ldan block print), colophon excerpt
+      order: 1
+      base_file: 4c6a.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null

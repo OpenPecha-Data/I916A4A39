@@ -1,0 +1,40 @@
+id: 5e61048045454eb6bbd3998a9e2895fc
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  eadb62e3b2704001a855b9c2f42b4aa8:
+    span:
+      start: 0
+      end: 10
+    metadata:
+      page_num: '[-]'
+    page_info: null
+    imgnum: null
+    reference: null
+  af669d2fb5d34f2caaa3dda35a636dac:
+    span:
+      start: 12
+      end: 94
+    metadata:
+      page_num: ༣༦༠ན
+    page_info: null
+    imgnum: null
+    reference: null
+  b1c58e6a2c70489b8c53599ee7dfcf78:
+    span:
+      start: 96
+      end: 1322
+    metadata:
+      page_num: ༣༦༠བ
+    page_info: null
+    imgnum: null
+    reference: null
+  58caa273294f4cd19875841bfa5551a2:
+    span:
+      start: 1324
+      end: 3306
+    metadata:
+      page_num: ༣༦༡ན
+    page_info: null
+    imgnum: null
+    reference: null
